@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/727
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13825#Sapho
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-10-21'
 gutenberg_type: Text
